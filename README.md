@@ -1,7 +1,7 @@
 # Recio's Voxify - Uplift Code Camp
 
 ### Event:
-Crack the Code: FREE Workshop for GDSC Pamantasang Lungsod ng Maynila
+Crack the Code: FREE Workshop for GDSC Pamantasan ng Lungsod ng Maynila
 
 ### Date and Time:
 May 4, Saturday, 3-6 pm (GMT+8)
