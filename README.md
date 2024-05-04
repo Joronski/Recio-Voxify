@@ -19,4 +19,6 @@ Milo Somera - Teaching Partner at Uplift Code Camp
 
 During the workshop, my version of Voxify Web App was developed. This app was a collaborative effort among the attendees, facilitated by Milo Somera. The Voxify Web App in Recio's Version serves as an example of the practical application of the skills learned during the workshop.
 
+This is a voice recorder web application that allows users to record audio through text that they want to type or are supposed to type and adjust the recording settings, such as rate and pitch.
+
 ![image](https://github.com/Joronski/Library-Management-System/assets/91183608/b9326e32-7193-4616-a80c-d0ed96b7e13f)
