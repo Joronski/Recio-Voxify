@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>RECIO | Voxify</title>
+
+        <!-- External CSS -->
+        <link rel="stylesheet" href="styles/style.css">
+
+        <!-- Google Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Mali:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+
+        <!-- Favicon -->
+        <link rel="icon" href="https://icons.veryicon.com/png/System/Android%201/Music%20audio%20wave.png">
+    </head>
+    <body>
+        <div id="container">
+            <h1>Voxify</h1>
+            <select name="" id="voices"></select>
+            <label for="">Rate: </label>
+            <input id="rate" type="range" value="1" min="0" max="3" step="0.1">
+            <label for="">Pitch: </label>
+            <input id="pitch" type="range" value="1" min="0" max="2" step="0.1">
+            <textarea name="" id="textarea">Welcome to University of Cabuyao!</textarea>
+            <div id="buttons">
+                <button id="stop-button">Stop</button>
+                <button id="speak-button">Speak</button>
+            </div>
+        </div>
+
+        <!-- External JS -->
+        <script src="scripts/script.js"></script>
+    </body>
+</html>
